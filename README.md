@@ -74,7 +74,7 @@ If you have suggestions or improvements, feel free to fork the repository and su
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE.txt file for more details.
+This project is licensed under the GNU General Public License v3.0 License. See the LICENSE file for more details.
 
 ## Contact
 
