@@ -45,6 +45,7 @@ I am Haris Mansoor, a beginner front-end developer passionate about creating eng
 ### Project 2: [Portfolio]
 - Description:A Personal Portfolio web page .
 - Technologies: HTML, CSS, JavaScript
+- Live Demo: (https://harismansoor17.github.io/Portfolio/)
 - Source Code: [GitHub Repository](https://github.com/harismansoor17/Portfolio)
 
 
