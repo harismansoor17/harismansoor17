@@ -1,6 +1,6 @@
-# Haris Mansoor's Portfolio
+# Haris Mansoor
 
-Welcome to my portfolio repository! This repository contains the source code for my personal portfolio website, showcasing my skills, projects, and contact information.
+Welcome to my Git Hub! My Git Hub Repos contains the source code for my personal portfolio website, showcasing my skills, projects, and contact information.
 
 ## Table of Contents
 
@@ -16,7 +16,7 @@ Welcome to my portfolio repository! This repository contains the source code for
 
 ## About
 
-I am Haris Mansoor, a beginner front-end developer passionate about creating engaging and user-friendly websites. This portfolio is a compilation of my work, demonstrating my skills in HTML, CSS, JavaScript, Tailwind CSS, and WordPress.
+I am Haris Mansoor, a beginner front-end developer passionate about creating engaging and user-friendly websites. These Repos are a compilation of my work, demonstrating my skills in HTML, CSS, JavaScript, Tailwind CSS.
 
 ## Features
 
@@ -31,6 +31,7 @@ I am Haris Mansoor, a beginner front-end developer passionate about creating eng
 - CSS
 - JavaScript
 - Tailwind CSS
+- Boot Strap
 - WordPress
 - WooCommerce
 
@@ -85,5 +86,5 @@ Feel free to reach out to me via the contact form on my portfolio or through the
 - Email: [harisdev2005@gmail.com](mailto:harisdev2005@gmail.com)
 - **GitHub**: [harismansoor17](https://github.com/harismansoor17)
 
-Thank you for visiting my portfolio!
+Thank you for visiting my profile!
 
