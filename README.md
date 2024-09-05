@@ -10,7 +10,6 @@ Welcome to my Git Hub! My Git Hub Repos contains the source code for my personal
 - [Projects](#projects)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
@@ -71,13 +70,9 @@ To run this project locally, follow these steps:
 
 This portfolio is designed to be viewed as a static website. Simply open the `index.html` file in your browser to explore the content.
 
-## Contributing
-
-If you have suggestions or improvements, feel free to fork the repository and submit a pull request. Contributions are always welcome!
-
 ## License
 
-This project is licensed under the GNU General Public License v3.0 License. See the LICENSE file for more details.
+You Dont Have My Permission to use my work..
 
 ## Contact
 
@@ -85,6 +80,8 @@ Feel free to reach out to me via the contact form on my portfolio or through the
 
 - Email: [harisdev2005@gmail.com](mailto:harisdev2005@gmail.com)
 - **GitHub**: [harismansoor17](https://github.com/harismansoor17)
+- LinkedIn: [haris-mansoor](https://www.linkedin.com/in/haris-mansoor-b77235318/)
+
 
 Thank you for visiting my profile!
 
