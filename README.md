@@ -36,14 +36,7 @@ I am Haris Mansoor, a beginner front-end developer passionate about creating eng
 
 ## Projects
 
-### Project 1: [Power of API]
-- Description: An all in one collection of usefull APIs (Weather, Exchange Rate,etc..)
-- Technologies: HTML, CSS, JavaScript, Tailwind
-- Live Demo: [https://harismansoor17.github.io/Power-of-APIs/](https://harismansoor17.github.io/Power-of-APIs/)
-- Source Code: [GitHub Repository](https://github.com/harismansoor17/Power-of-APIs)
-
-
-### Project 2: [Portfolio]
+### Project 1: [Portfolio]
 - Description:A Personal Portfolio web page .
 - Technologies: HTML, CSS, JavaScript
 - Live Demo: [https://harismansoor17.github.io/Portfolio/](https://harismansoor17.github.io/Portfolio/)
