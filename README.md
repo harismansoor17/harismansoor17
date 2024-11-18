@@ -8,8 +8,6 @@ Welcome to my Git Hub! My Git Hub Repos contains the source code for my personal
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Projects](#projects)
-- [Installation](#installation)
-- [Usage](#usage)
 - [License](#license)
 - [Contact](#contact)
 
@@ -40,27 +38,6 @@ I am Haris Mansoor, a beginner front-end developer passionate about creating eng
 - Description:A Personal Portfolio web page .
 - Technologies: HTML, CSS, JavaScript
 - Live Demo: [[https://haris-mansoor.vercel.app/](https://haris-mansoor.vercel.app/)]
-
-
-## Installation
-
-To run this project locally, follow these steps:
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/harismansoor17/portfolio.git
-    ```
-
-2. Navigate to the project directory:
-    ```bash
-    cd portfolio
-    ```
-
-3. Open `index.html` in your preferred web browser.
-
-## Usage
-
-This portfolio is designed to be viewed as a static website. Simply open the `index.html` file in your browser to explore the content.
 
 ## License
 
